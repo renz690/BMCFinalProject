@@ -47,30 +47,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAplcaqyJgip7hgVrHFJ489BYCR7DppraU',
-    appId: '1:1055928331681:web:b1485354c5275b460eafe0',
-    messagingSenderId: '1055928331681',
-    projectId: 'ecommerceapp-23071',
-    authDomain: 'ecommerceapp-23071.firebaseapp.com',
-    storageBucket: 'ecommerceapp-23071.firebasestorage.app',
-    measurementId: 'G-78Q9EH08S6',
+    apiKey: 'AIzaSyAtW4PhSvu99xbYhdzQTtCr-Kb1gwWODF4',
+    appId: '1:368516372145:web:671d4a8281252ffe4fb490',
+    messagingSenderId: '368516372145',
+    projectId: 'ecommerceapp-ab0bc',
+    authDomain: 'ecommerceapp-ab0bc.firebaseapp.com',
+    storageBucket: 'ecommerceapp-ab0bc.firebasestorage.app',
+    measurementId: 'G-SJ22YEMZ67',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCUEmsLDnLznhVC8Vp3xqZLrxXjurEWc6Y',
-    appId: '1:1055928331681:android:c12efa1eb3f68ecc0eafe0',
-    messagingSenderId: '1055928331681',
-    projectId: 'ecommerceapp-23071',
-    storageBucket: 'ecommerceapp-23071.firebasestorage.app',
+    apiKey: 'AIzaSyCOwWYutfCLn_q6vMzQkdVjyMpvNNlMOwY',
+    appId: '1:368516372145:android:fdb2bde13b2710694fb490',
+    messagingSenderId: '368516372145',
+    projectId: 'ecommerceapp-ab0bc',
+    storageBucket: 'ecommerceapp-ab0bc.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAplcaqyJgip7hgVrHFJ489BYCR7DppraU',
-    appId: '1:1055928331681:web:f4b99663305de2eb0eafe0',
-    messagingSenderId: '1055928331681',
-    projectId: 'ecommerceapp-23071',
-    authDomain: 'ecommerceapp-23071.firebaseapp.com',
-    storageBucket: 'ecommerceapp-23071.firebasestorage.app',
-    measurementId: 'G-TFH8JFNH8H',
+    apiKey: 'AIzaSyAtW4PhSvu99xbYhdzQTtCr-Kb1gwWODF4',
+    appId: '1:368516372145:web:0e7f95eba2e8cfe54fb490',
+    messagingSenderId: '368516372145',
+    projectId: 'ecommerceapp-ab0bc',
+    authDomain: 'ecommerceapp-ab0bc.firebaseapp.com',
+    storageBucket: 'ecommerceapp-ab0bc.firebasestorage.app',
+    measurementId: 'G-KB89DTKH1D',
   );
+
 }
